@@ -1,8 +1,11 @@
-### Hi there 👋
-my name is  Mohammad Sahil, I'm am undergrad in Data Science & Artificial intelligence intrested in python,pandas,numpy,SQL,Excel & BI tools. 
+### Hi there 👋  
+I'm **Mohammad Sahil**, an undergraduate student with a growing passion for **Full Stack Development**. I’m currently working on projects using **Java**, **Spring Boot**, **JavaScript**, and **SQL**, while also exploring tools like **Python**, **Pandas**, **Excel**, and **BI tools** for backend logic and data handling.
 
-- 🔭 I’m currently working on Improving my self 
-- 🌱 I’m currently learning SQL,Python and its libraries,Statistics 
-- 👯 I’m looking to collaborate on makeing a AI driven solution.
-- ⚡ Fun fact: i got Harvard certification in SQL 😊.
+- 🔭 Currently building and improving **full-stack applications** using **Spring Boot** and **JavaScript**  
+- 🌱 Learning and deepening my skills in **Java Full Stack Development**, including backend APIs, frontend interactivity, and database integration  
+- 👯 Open to collaborating on **web apps** and **AI-driven solutions**  
+- ⚡ **Fun Fact:** I completed a **Harvard certification in SQL** 😊  
+
+Always up for new challenges and learning opportunities 🚀
+
 
